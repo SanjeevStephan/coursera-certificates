@@ -1,4 +1,5 @@
-<center> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/fa/79e521abf14610b4fec9d677901916/0.png?auto=format%2Ccompress&dpr=1&w=&h=45"> </center> Learn in-demand skills and get certificated from Google
+<img align="center" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/fa/79e521abf14610b4fec9d677901916/0.png?auto=format%2Ccompress&dpr=1&w=&h=45"> 
+Learn in-demand skills and get certificated from Google
 
 # Google Certificates
 | Course Title | Course Fee | Enroll Now | Certificate | 
