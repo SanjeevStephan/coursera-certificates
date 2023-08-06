@@ -11,3 +11,4 @@
 <center> <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c0/87a10033a311e892619b85c6fd62bb/IBM-200x48.png?auto=format%2Ccompress&dpr=1&w=&h=45"> </center>
 
 1. Machine Learning with Python -[Go To Coursera](https://www.coursera.org/learn/machine-learning-with-python)
+2. Machine Learning Introduction for Everyone - [Go To Coursera ](https://www.coursera.org/learn/machine-learning-introduction-for-everyone) 
